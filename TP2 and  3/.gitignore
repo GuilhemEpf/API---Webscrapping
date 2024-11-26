@@ -1,0 +1,4 @@
+*.pyc
+services\epf-flower-data-science\env
+services\epf-flower-data-science\__pycache__
+services\epf-flower-data-science\venv-data-source
