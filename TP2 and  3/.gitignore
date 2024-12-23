@@ -2,5 +2,4 @@
 services\epf-flower-data-science\env
 services\epf-flower-data-science\__pycache__
 services\epf-flower-data-science\venv-data-source
-
-C:\Users\guilh\OneDrive\Bureau\5A\data sources\API\API---Webscrapping\TP2 and  3\services\epf-flower-data-science\src\config\Firebase_credentials.json
+services\epf-flower-data-science\src\config\Firebase_credentials.json
